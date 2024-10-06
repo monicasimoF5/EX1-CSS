@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif; /*estilo de la fuente*/
+    text-decoration: none; /*elimina el subrayado del enlace*/
+}
+
+.header {
+    background-color: cadetblue; /*color de la caja*/
+    padding-top: 1px; /*espacio interno entre el contenido y el borde superior del elemento*/
+    padding-bottom: 5px; /*espacio interno entre el contenido y el borde inferior del elemento*/
+    border-radius: 5%; /*redondea los bordes de la caja*/
+    text-align: center; /*centra el texto*/
+    color: azure; /*color del texto*/
+    font-weight: bold; /*texto en negrita*/
+}
+
+.footer {
+    background-color: cadetblue; /*color de la caja*/
+    padding-top: 1px; /*espacio interno entre el contenido y el borde superior del elemento*/
+    padding-bottom: 5px; /*espacio interno entre el contenido y el borde inferior del elemento*/
+    border-radius: 10%; /*redondea los bordes de la caja*/
+    text-align: center; /*centra el texto*/
+    color: azure; /*color del texto*/
+    font-weight: bold; /*texto en negrita*/
+}
+
+.section__title {
+    text-decoration-line: underline; /*subraya el texto*/
+}
