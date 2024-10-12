@@ -12,7 +12,7 @@ Este ejercicio consiste en agregar estilos CSS a un currículum en HTML que ya t
 4. Realizar commits siguiendo el estilo **conventional commits**.
 5. Utilizar la plantilla de GitHub y compartir el enlace a tu repositorio cuando termines.
 
-## 📘 **¿Qué es BEM?**
+## 📘 **¿Qué es BEM?** 
 
 **BEM** (Block Element Modifier) es una metodología que organiza y nombra las clases en CSS de forma clara y estructurada, dividiendo los componentes de la interfaz en:
 
